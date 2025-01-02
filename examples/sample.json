@@ -1,0 +1,20 @@
+{
+  "runs": [
+    {
+      "id": "a0",
+      "model": "local",
+      "input_tokens": 10,
+      "output_tokens": 5,
+      "latency_ms": 100,
+      "passed": true
+    },
+    {
+      "id": "b0",
+      "model": "local",
+      "input_tokens": 20,
+      "output_tokens": 7,
+      "latency_ms": 200,
+      "passed": false
+    }
+  ]
+}
