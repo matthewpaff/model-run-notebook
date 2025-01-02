@@ -1,0 +1,1587 @@
+{
+  "synthetic": true,
+  "actualDevelopmentYear": 2026,
+  "modeledLearningYear": 2025,
+  "roadmapFit": "User-directed personal AI/LLM/agent exploration.",
+  "scenarioCommitCount": 259,
+  "scenarioCommits": [
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 0,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-01-02T10:02:28+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 1,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-01-02T10:15:09+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 2,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-01-02T14:35:23+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 3,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-01-02T19:12:54+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 4,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-01-08T09:05:43+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 5,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-01-08T17:13:37+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 6,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-01-08T19:08:29+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 7,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-01-09T19:05:05+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 8,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-01-15T12:03:12+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 9,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-01-16T11:38:50+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 10,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-01-16T13:33:38+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 11,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-01-16T16:03:38+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 12,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-01-16T19:40:41+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 13,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-01-19T19:51:44+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 14,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-01-21T10:45:21+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 15,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-01-25T09:39:14+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 16,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-01-27T09:20:41+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 17,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-01-27T10:35:50+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 18,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-01-27T11:46:21+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 19,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-01-27T16:11:22+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 20,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-01-27T18:02:47+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 21,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-01-27T20:35:17+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 22,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-01-28T13:37:35+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 23,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-01-30T11:35:49+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 24,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-02-03T10:06:32+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 25,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-02-04T12:56:17+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 26,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-02-05T14:11:48+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 27,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-02-07T09:18:14+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 28,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-02-07T12:30:39+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 29,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-02-07T15:43:05+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 30,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-02-07T16:09:55+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 31,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-02-07T17:14:38+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 32,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-02-07T21:05:35+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 33,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-02-13T13:49:30+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 34,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-02-13T21:06:55+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 35,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-02-16T09:18:19+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 36,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-02-20T09:03:44+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 37,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-02-20T12:39:20+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 38,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-02-20T12:48:48+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 39,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-02-20T18:25:53+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 40,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-02-20T19:12:09+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 41,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-02-20T19:20:23+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 42,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-02-21T15:18:22+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 43,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-02-21T16:31:45+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 44,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-02-25T10:43:46+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 45,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-02-25T21:58:53+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 46,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-02-26T10:29:26+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 47,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-02-26T11:53:21+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 48,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-02-26T15:44:56+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 49,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-02-26T16:56:00+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 50,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-02-28T10:49:24+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 51,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-02-28T12:06:28+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 52,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-02-28T14:41:23+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 53,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-03-07T20:06:59+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 54,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-03-09T15:37:53+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 55,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-03-10T18:10:04+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 56,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-03-11T19:05:25+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 57,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-03-12T10:33:23+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 58,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-03-12T11:46:10+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 59,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-03-12T12:24:09+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 60,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-03-12T16:36:45+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 61,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-03-12T21:53:08+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 62,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-03-13T11:09:03+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 63,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-03-13T11:38:12+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 64,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-03-13T15:48:12+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 65,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-03-14T11:04:57+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 66,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-03-14T14:40:05+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 67,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-03-14T21:29:59+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 68,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-03-17T14:52:12+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 69,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-03-17T18:41:40+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 70,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-03-17T21:31:07+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 71,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-03-18T15:35:24+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 72,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-03-19T09:24:19+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 73,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-03-19T09:45:22+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 74,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-03-20T09:34:18+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 75,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-03-20T14:42:36+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 76,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-03-20T18:26:59+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 77,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-03-21T17:55:10+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 78,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-03-28T12:12:03+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 79,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-04-03T15:39:20+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 80,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-04-04T10:19:11+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 81,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-04-04T17:27:38+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 82,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-04-07T09:41:34+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 83,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-04-08T18:47:57+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 84,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-04-10T17:19:36+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 85,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-04-10T19:56:25+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 86,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-04-11T11:49:24+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 87,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-04-14T14:29:05+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 88,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-04-16T13:07:58+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 89,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-04-24T09:12:13+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 90,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-04-30T12:04:55+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 91,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-05-01T09:56:06+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 92,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-05-02T21:53:45+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 93,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-05-03T17:45:08+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 94,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-05-12T21:09:05+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 95,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-05-16T20:43:15+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 96,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-05-19T11:02:19+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 97,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-05-19T12:10:04+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 98,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-05-19T13:12:19+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 99,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-05-22T13:49:06+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 100,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-05-22T15:22:17+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 101,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-05-22T17:35:44+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 102,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-05-23T10:59:26+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 103,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-05-29T10:17:31+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 104,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-05-29T11:35:40+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 105,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-05-29T14:46:04+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 106,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-05-29T17:28:16+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 107,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-05-30T21:42:43+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 108,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-06-01T14:18:24+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 109,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-06-03T14:51:34+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 110,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-06-03T20:10:17+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 111,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-06-04T10:20:01+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 112,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-06-04T12:31:36+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 113,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-06-04T12:48:49+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 114,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-06-04T13:56:38+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 115,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-06-04T18:06:46+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 116,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-06-04T20:55:05+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 117,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-06-05T16:12:28+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 118,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-06-09T14:57:00+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 119,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-06-09T17:04:39+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 120,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-06-09T19:41:32+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 121,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-06-12T13:28:31+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 122,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-06-12T19:54:18+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 123,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-06-17T12:11:37+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 124,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-06-17T14:41:38+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 125,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-06-23T16:02:23+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 126,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-06-24T12:01:34+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 127,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-06-27T16:08:14+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 128,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-07-01T15:03:13+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 129,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-07-01T15:55:15+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 130,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-07-02T10:14:55+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 131,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-07-02T11:18:51+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 132,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-07-02T21:07:50+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 133,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-07-03T19:52:16+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 134,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-07-05T16:49:12+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 135,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-07-08T19:19:42+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 136,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-07-11T09:57:44+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 137,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-07-11T18:03:10+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 138,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-07-12T16:05:34+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 139,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-07-16T18:57:55+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 140,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-07-21T12:23:48+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 141,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-07-23T20:38:49+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 142,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-07-24T11:54:47+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 143,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-07-28T18:24:41+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 144,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-07-30T14:03:37+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 145,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-07-31T13:06:27+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 146,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-08-11T09:41:48+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 147,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-08-11T15:48:03+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 148,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-08-11T17:53:52+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 149,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-08-14T18:53:09+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 150,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-08-17T09:29:03+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 151,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-08-18T15:00:13+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 152,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-08-18T18:12:41+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 153,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-08-21T12:12:17+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 154,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-08-21T12:54:06+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 155,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-08-21T16:55:31+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 156,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-08-23T13:19:18+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 157,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-08-24T17:44:51+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 158,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-08-26T16:21:35+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 159,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-08-26T18:27:10+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 160,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-08-26T19:04:37+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 161,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-08-26T21:14:21+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 162,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-08-31T21:46:15+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 163,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-02T14:43:12+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 164,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-02T14:48:27+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 165,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-02T16:55:14+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 166,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-02T19:31:06+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 167,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-04T11:09:19+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 168,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-04T11:22:40+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 169,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-05T15:37:24+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 170,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-05T15:59:17+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 171,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-07T10:35:43+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 172,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-07T14:35:40+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 173,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-07T15:40:39+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 174,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-07T21:38:25+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 175,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-08T11:21:15+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 176,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-10T09:55:13+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 177,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-10T10:43:01+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 178,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-10T10:45:22+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 179,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-10T11:46:26+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 180,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-11T10:11:52+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 181,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-11T18:12:03+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 182,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-11T20:23:55+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 183,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-15T18:34:03+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 184,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-17T11:15:33+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 185,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-17T17:56:10+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 186,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-17T20:18:08+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 187,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-18T16:33:23+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 188,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-19T15:11:25+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 189,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-23T17:13:33+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 190,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-25T20:29:16+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 191,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-26T12:53:01+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 192,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-27T16:14:30+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 193,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-27T17:26:14+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 194,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-09-29T16:23:22+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 195,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-10-02T15:09:21+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 196,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-10-06T10:46:23+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 197,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-10-08T09:49:35+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 198,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-10-08T13:42:46+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 199,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-10-08T15:32:55+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 200,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-10-08T17:42:14+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 201,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-10-08T17:44:27+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 202,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-10-08T17:46:10+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 203,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-10-09T11:41:37+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 204,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-10-09T20:10:13+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 205,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-10-09T20:49:33+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 206,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-10-10T11:15:28+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 207,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-10-10T20:06:45+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 208,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-10-10T21:41:29+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 209,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-10-17T09:23:36+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 210,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-10-17T21:39:26+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 211,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-10-18T18:16:44+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 212,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-10-20T18:34:57+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 213,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-10-22T16:01:28+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 214,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-10-23T21:42:58+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 215,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-10-24T10:05:17+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 216,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-10-24T11:58:17+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 217,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-10-26T10:58:54+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 218,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-10-30T16:29:04+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 219,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-10-30T16:47:29+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 220,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-11-04T12:36:58+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 221,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-11-05T09:18:54+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 222,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-11-05T12:10:17+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 223,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-11-05T19:16:01+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 224,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-11-07T11:15:10+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 225,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-11-07T12:54:25+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 226,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-11-07T14:04:37+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 227,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-11-07T19:14:11+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 228,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-11-07T19:33:54+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 229,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-11-10T17:34:50+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 230,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-11-14T15:58:04+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 231,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-11-15T09:22:30+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 232,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-11-18T11:59:14+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 233,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-11-18T19:38:59+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 234,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-11-19T15:32:03+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 235,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-11-20T15:44:30+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 236,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-11-20T21:47:25+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 237,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-11-21T09:28:24+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 238,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-11-25T13:00:09+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 239,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-11-28T09:42:59+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 240,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-11-28T14:51:03+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 241,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-11-28T15:10:46+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 242,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-11-28T21:57:27+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 243,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-12-02T10:10:31+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 244,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-12-09T14:27:49+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 245,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-12-09T14:35:19+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 246,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-12-15T14:05:20+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 247,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-12-15T18:40:04+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 248,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-12-16T16:05:11+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 249,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-12-17T09:56:58+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 250,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-12-17T12:14:10+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 251,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-12-20T17:46:01+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 252,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-12-21T16:49:39+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 253,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-12-22T20:35:57+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 254,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-12-24T11:42:47+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 255,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-12-24T19:23:26+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 256,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-12-26T10:33:48+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 257,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-12-26T18:00:48+00:00"
+    },
+    {
+      "repository": "model-run-notebook",
+      "fixtureIndex": 258,
+      "year": 2025,
+      "scenarioAuthorDate": "2025-12-28T13:17:03+00:00"
+    }
+  ],
+  "committerTimeline": {
+    "synthetic": true,
+    "modeledYear": 2025,
+    "actualCalendarRevisionAt": "2026-11-05T17:23:03.756156+00:00"
+  },
+  "calendarPolicy": {
+    "basis": "U.S. federal legal and observed holidays, UTC calendar dates; Juneteenth from 2021; adjacent-year observed New Year dates included",
+    "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+    "excludedHolidayDates": [
+      "2025-01-01",
+      "2025-01-20",
+      "2025-02-17",
+      "2025-05-26",
+      "2025-06-19",
+      "2025-07-04",
+      "2025-09-01",
+      "2025-10-13",
+      "2025-11-11",
+      "2025-11-27",
+      "2025-12-25"
+    ],
+    "weekendDatesEmpty": 62,
+    "weekendDates": 104
+  }
+}
